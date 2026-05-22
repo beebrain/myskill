@@ -1,0 +1,16 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor / IDE configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python / Scripts temp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
